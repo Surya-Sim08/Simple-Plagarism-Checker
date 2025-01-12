@@ -1,0 +1,3 @@
+The quick brown fox leaps over the lazy dog.
+This sample file is used to show how to compare text files.
+It contains several lines of text.
